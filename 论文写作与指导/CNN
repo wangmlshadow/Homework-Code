@@ -169,7 +169,7 @@ class SimpleConvNet:
         Parameters
         ----------
         x : 输入数据
-        t : 教师标签
+        t : 结果标签
 
         Returns
         -------
